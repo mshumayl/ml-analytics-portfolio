@@ -40,7 +40,7 @@ Exploratory data analysis on a dataset of over 2000 recorded TED Talks to visual
 
 #
 
-<img align="left" width="220" height="130" src="https://thumbs.dreamstime.com/b/concept-real-estate-market-growth-increase-housing-prices-rising-utilities-increased-interest-mortgage-rates-134115781.jpg"> **[Artificial Neural Network for Prediction of House Prices using Keras and Tensorflow](https://github.com/mshumayl/data-science-portfolio/tree/main/House-Price-Prediction-with-Neural-Network)**
+<img align="left" width="220" height="150" src="https://thumbs.dreamstime.com/b/concept-real-estate-market-growth-increase-housing-prices-rising-utilities-increased-interest-mortgage-rates-134115781.jpg"> **[Artificial Neural Network for Prediction of House Prices using Keras and Tensorflow](https://github.com/mshumayl/data-science-portfolio/tree/main/House-Price-Prediction-with-Neural-Network)**
 
 Constructing a four-layer Artificial Neural Network using Keras and Tensorflow to predict the price of houses given a set of features. The training data is on house prices in the Seattle area. The Adam algorithm was used for optimization, and ReLU was used as the activation function for each points.
 
