@@ -27,8 +27,6 @@ This portfolio will grow as I learn more and do more projects.
 ## Mini projects:
 *If GitHub fails to load any of the following .ipynb files, you can use nbviewer to view the files by clicking [here](https://nbviewer.jupyter.org/github/mshumayl/data-science-portfolio/tree/main/).*
 
-#
-
 <img align="left" width="220" height="130" src="https://cdn.aiidatapro.net/media/e8/4e/6a/t780x490/e84e6adbaf58fd5108188898d3f0ac41dfba34b7.jpg"> **[EDA and Prediction of Solar Power Output](https://github.com/mshumayl/data-science-portfolio/tree/main/Solar-Power-Output-Prediction)**
 
 Exploratory data analysis on a dataset of power output and weather sensor data obtained from two solar power plants in India. Predictive modelling is done using linear regression to predict the output of the solar power plants, given a test set of various time and weather conditions. The dataset was obtained from Kaggle.
@@ -44,7 +42,7 @@ Exploratory data analysis on a dataset of over 2000 recorded TED Talks to visual
 
 <img align="left" width="220" height="130" src="https://thumbs.dreamstime.com/b/concept-real-estate-market-growth-increase-housing-prices-rising-utilities-increased-interest-mortgage-rates-134115781.jpg"> **[Artificial Neural Network for Prediction of House Prices using Keras and Tensorflow](https://github.com/mshumayl/data-science-portfolio/tree/main/House-Price-Prediction-with-Neural-Network)**
 
-Constructing an Artificial Neural Network with four hidden layers with ReLU activation using Keras and Tensorflow to predict the price of houses given a set of features. The training data is on house prices in the Seattle, WA area. The Adam algorithm was used for optimization, and ReLU was used as the activation function for each points.
+Constructing a four-layer Artificial Neural Network using Keras and Tensorflow to predict the price of houses given a set of features. The training data is on house prices in the Seattle area. The Adam algorithm was used for optimization, and ReLU was used as the activation function for each points.
 
 #
 
