@@ -19,7 +19,7 @@ This portfolio will grow as I learn more and do more projects.
 # Mini projects
 *Click any of the project title to visit the codes on GitHub. If GitHub fails to load any of the .ipynb files, you can use nbviewer to view the files by clicking [here](https://nbviewer.jupyter.org/github/mshumayl/data-science-portfolio/tree/main/).*
 
-**[EDA and Prediction of Solar Power Output](https://github.com/mshumayl/data-science-portfolio/tree/main/Solar-Power-Output-Prediction)**
+## **[EDA and Prediction of Solar Power Output](https://github.com/mshumayl/data-science-portfolio/tree/main/Solar-Power-Output-Prediction)**
 
 - Conducted an exploratory data analysis (EDA) to discover key analytics and diagnostics for a dataset of two solar power plants.
 - Constructed a simple linear regression model to predict the output of the solar power plants which is accurate up to around 700kW (root mean squared error).
@@ -45,7 +45,7 @@ This portfolio will grow as I learn more and do more projects.
   AC Power Output Throughout the Day
 </p>
 
-**[Kaggle TPS June 2021 Competition](https://github.com/mshumayl/data-science-portfolio/tree/main/Kaggle-TPSCompetition-June2021)**
+## **[Kaggle TPS June 2021 Competition](https://github.com/mshumayl/data-science-portfolio/tree/main/Kaggle-TPSCompetition-June2021)**
 
 - Designed a multilayer perceptron (MLP) neural network model and an XGBoost model to predict the category of 100,000 different products given over 70 different mystery features of over 200,000 existing products for Kaggle's June Tabular Playground Competition.
 - Scored 1.77852 (competition winner scored 1.74370, multiclass log loss - lower is better) with predictions made by the XGBoost model.
@@ -57,7 +57,7 @@ This portfolio will grow as I learn more and do more projects.
   MLP Model Architecture
 </p>
 
-**[Predicting House Prices with Neural Networks using Keras and Tensorflow](https://github.com/mshumayl/data-science-portfolio/tree/main/House-Price-Prediction-with-Neural-Network)**
+## **[Predicting House Prices with Neural Networks using Keras and Tensorflow](https://github.com/mshumayl/data-science-portfolio/tree/main/House-Price-Prediction-with-Neural-Network)**
 
 - Designed a multilayer perceptron (MLP) neural network model with tf.keras to predict the price of houses given information on location and various other aspects of over 20,000 houses with a great variance score of 0.767.
 
@@ -89,7 +89,7 @@ This portfolio will grow as I learn more and do more projects.
   Correlation Between Living Space and House Price
 </p>
 
-**[Exploring Trends and Patterns of TED Talks (EDA)](https://github.com/mshumayl/data-science-portfolio/tree/main/TEDTalk-Exploratory-Data-Analysis)**
+## **[Exploring Trends and Patterns of TED Talks (EDA)](https://github.com/mshumayl/data-science-portfolio/tree/main/TEDTalk-Exploratory-Data-Analysis)**
 
 - Conducted a comprehensive exploratory data analysis with prompts from a lecture by Kevin Markham on a dataset of over 2000 recorded TED Talks to visualize underlying trends and patterns regarding the popularity, sentiments, and ratings of the TED events.
 
@@ -121,7 +121,7 @@ This portfolio will grow as I learn more and do more projects.
   Number of TED Talks per Year
 </p>
 
-**[Predicting Classification on a Dataset of Unknown Features with K-Nearest Neighbors Algorithm](https://github.com/mshumayl/data-science-portfolio/tree/main/Classification-Prediction-KNN)**
+## **[Predicting Classification on a Dataset of Unknown Features with K-Nearest Neighbors Algorithm](https://github.com/mshumayl/data-science-portfolio/tree/main/Classification-Prediction-KNN)**
 
 - Implemented the K-Nearest Neighbors algorithm to predict the category of an object based on 10 mystery features of 1000 different objects with a precision of 83%.
 
@@ -132,7 +132,7 @@ This portfolio will grow as I learn more and do more projects.
   KNN Decision Boundary
 </p>
 
-**[Predicting Loan Repayment with Decision Trees and Random Forest Algorithms](https://github.com/mshumayl/data-science-portfolio/tree/main/Predicting-Loan-Return-with-Random-Forest-Classifier)**
+## **[Predicting Loan Repayment with Decision Trees and Random Forest Algorithms](https://github.com/mshumayl/data-science-portfolio/tree/main/Predicting-Loan-Return-with-Random-Forest-Classifier)**
 
 - Trained a decision trees model and a random forest model to predict loan repayment given past information of an applicant. The decision trees model and the random forest model achieved 75% and 78% accuracies respectively.
 
@@ -143,7 +143,7 @@ This portfolio will grow as I learn more and do more projects.
   Decision Tree Model
 </p>
 
-**[Predicting Flower Type with Support Vector Machine Algorithm](https://github.com/mshumayl/data-science-portfolio/tree/main/Predicting-Flower-Type-with-SVM)**
+## **[Predicting Flower Type with Support Vector Machine Algorithm](https://github.com/mshumayl/data-science-portfolio/tree/main/Predicting-Flower-Type-with-SVM)**
 
 - Implemented the Support Vector Machine (SVM) algorithm to predict between 3 different flower species given information on sepal and petal dimensions with an average accuracy of 95%.
 
@@ -168,7 +168,7 @@ This portfolio will grow as I learn more and do more projects.
   Features Correlation
 </p>
 
-**[Predicting Ad Click with Logistic Regression Model](https://github.com/mshumayl/data-science-portfolio/tree/main/Ad-Click-Prediction)**
+## **[Predicting Ad Click with Logistic Regression Model](https://github.com/mshumayl/data-science-portfolio/tree/main/Ad-Click-Prediction)**
 
 - Created a logistic regression model that processed 1000 rows of user data to estimate whether or not a person will click an advertisement with a 93% accuracy.
 
