@@ -1,6 +1,6 @@
 # About me
 
-My name is [Shumayl Asmawi](https://www.linkedin.com/in/shumayl-111/), and I am an Applied Physics fresh graduate. I am currently learning data science, and I am looking for ways to solve problems in the domains of semiconductor devices, renewable energy, materials science, and business intelligence using data!
+1My name is [Shumayl Asmawi](https://www.linkedin.com/in/shumayl-111/), and I am an Applied Physics fresh graduate. I am currently learning data science, and I am looking for ways to solve problems in the domains of semiconductor devices, renewable energy, materials science, and business intelligence using data!
 
 # About the portfolio
 This repository serves as a portfolio of some of my data science works - personal projects and capstone projects from online courses. They are presented in the form of Jupyter notebooks (.ipynb).
