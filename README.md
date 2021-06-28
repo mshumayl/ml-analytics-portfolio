@@ -1,6 +1,6 @@
 # About me
 
-2My name is [Shumayl Asmawi](https://www.linkedin.com/in/shumayl-111/), and I am an Applied Physics fresh graduate. I am currently learning data science, and I am looking for ways to solve problems in the domains of semiconductor devices, renewable energy, materials science, and business intelligence using data!
+3My name is [Shumayl Asmawi](https://www.linkedin.com/in/shumayl-111/), and I am an Applied Physics fresh graduate. I am currently learning data science, and I am looking for ways to solve problems in the domains of semiconductor devices, renewable energy, materials science, and business intelligence using data!
 
 # About the portfolio
 This repository serves as a portfolio of some of my data science works - personal projects and capstone projects from online courses. They are presented in the form of Jupyter notebooks (.ipynb).
@@ -27,21 +27,21 @@ This portfolio will grow as I learn more and do more projects.
 - Constructed a simple linear regression model to predict the output of the solar power plants which is accurate up to around 700kW (root mean squared error).
 
 <p align="center">
-  <img width="500" src="../_Images/Solar-1.png"/>
+  <img width="500" src="./_Images/Solar-1.png"/>
 </p>
 <p align="center">
   Variance Between Actual Values and Predicted Values
 </p>
 
 <p align="center">
-  <img width="600" src="../_Images/Solar-2.png">
+  <img width="600" src="./_Images/Solar-2.png">
 </p>
 <p align="center">
   Feature Correlation Matrix
 </p>
 
 <p align="center">
-  <img width="800" src="../_Images/Solar-3.png">
+  <img width="800" src="./_Images/Solar-3.png">
 </p>
 <p align="center">
   AC Power Output Throughout the Day
@@ -56,7 +56,7 @@ This portfolio will grow as I learn more and do more projects.
 - Scored 1.77852 (competition winner scored 1.74370, multiclass log loss - lower is better) with predictions made by the XGBoost model.
 
 <p align="center">
-  <img width="1000" src="../_Images/TPS062021-1.png">
+  <img width="1000" src="./_Images/TPS062021-1.png">
 </p>
 <p align="center">
   MLP Model Architecture
@@ -69,28 +69,28 @@ This portfolio will grow as I learn more and do more projects.
 - Designed a multilayer perceptron (MLP) neural network model with tf.keras to predict the price of houses given information on location and various other aspects of over 20,000 houses with a great variance score of 0.767.
 
 <p align="center">
-  <img width="1000" src="../_Images/HousePrice_3.png">
+  <img width="1000" src="./_Images/HousePrice_3.png">
 </p>
 <p align="center">
   MLP Model Architecture
 </p>
 
 <p align="center">
-  <img width="700" src="../_Images/HousePrice_1.png">
+  <img width="700" src="./_Images/HousePrice_1.png">
 </p>
 <p align="center">
   Coordinate Plot of House Prices
 </p>
 
 <p align="center">
-  <img width="600" src="../_Images/HousePrice_4.png">
+  <img width="600" src="./_Images/HousePrice_4.png">
 </p>
 <p align="center">
   Variance Between Actual Values and Predicted Values
 </p>
 
 <p align="center">
-  <img width="600" src="../_Images/HousePrice_2.png">
+  <img width="600" src="./_Images/HousePrice_2.png">
 </p>
 <p align="center">
   Correlation Between Living Space and House Price
@@ -103,28 +103,28 @@ This portfolio will grow as I learn more and do more projects.
 - Conducted a comprehensive exploratory data analysis with prompts from a lecture by Kevin Markham on a dataset of over 2000 recorded TED Talks to visualize underlying trends and patterns regarding the popularity, sentiments, and ratings of the TED events.
 
 <p align="center">
-  <img width="400" src="../_Images/TED-1.png">
+  <img width="400" src="./_Images/TED-1.png">
 </p>
 <p align="center">
   Views Analytics
 </p>
 
 <p align="center">
-  <img width="500" src="../_Images/TED-4.png">
+  <img width="500" src="./_Images/TED-4.png">
 </p>
 <p align="center">
   Engagement Analytics
 </p>
 
 <p align="center">
-  <img width="400" src="../_Images/TED-2.png">
+  <img width="400" src="./_Images/TED-2.png">
 </p>
 <p align="center">
   Sentiment Analytics
 </p>
 
 <p align="center">
-  <img width="500" src="../_Images/TED-3.png">
+  <img width="500" src="./_Images/TED-3.png">
 </p>
 <p align="center">
   Number of TED Talks per Year
@@ -138,7 +138,7 @@ This portfolio will grow as I learn more and do more projects.
 - Implemented the K-Nearest Neighbors algorithm to predict the category of an object based on 10 mystery features of 1000 different objects with a precision of 83%.
 
 <p align="center">
-  <img width="500" src="../_Images/KNN-1.png">
+  <img width="500" src="./_Images/KNN-1.png">
 </p>
 <p align="center">
   KNN Decision Boundary
@@ -151,7 +151,7 @@ This portfolio will grow as I learn more and do more projects.
 - Trained a decision trees model and a random forest model to predict loan repayment given past information of an applicant. The decision trees model and the random forest model achieved 75% and 78% accuracies respectively.
 
 <p align="center">
-  <img width="1000" src="../_Images/DT-1.png">
+  <img width="1000" src="./_Images/DT-1.png">
 </p>
 <p align="center">
   Decision Tree Model
@@ -164,21 +164,21 @@ This portfolio will grow as I learn more and do more projects.
 - Implemented the Support Vector Machine (SVM) algorithm to predict between 3 different flower species given information on sepal and petal dimensions with an average accuracy of 95%.
 
 <p align="center">
-  <img width="500" src="../_Images/SVM-1.png">
+  <img width="500" src="./_Images/SVM-1.png">
 </p>
 <p align="center">
   SVM Model Performance
 </p>
 
 <p align="center">
-  <img width="500" src="../_Images/SVM-2.png">
+  <img width="500" src="./_Images/SVM-2.png">
 </p>
 <p align="center">
   Multivariate Plot
 </p>
 
 <p align="center">
-  <img width="1000" src="../_Images/SVM-3.png">
+  <img width="1000" src="./_Images/SVM-3.png">
 </p>
 <p align="center">
   Features Correlation
@@ -191,21 +191,21 @@ This portfolio will grow as I learn more and do more projects.
 - Created a logistic regression model that processed 1000 rows of user data to estimate whether or not a person will click an advertisement with a 93% accuracy.
 
 <p align="center">
-  <img width="500" src="../_Images/Ad-Click-1.png">
+  <img width="500" src="./_Images/Ad-Click-1.png">
 </p>
 <p align="center">
   Model Performance
 </p>
 
 <p align="center">
-  <img width="500" src="../_Images/Ad-Click-3.png">
+  <img width="500" src="./_Images/Ad-Click-3.png">
 </p>
 <p align="center">
   Multivariate Plot
 </p>
 
 <p align="center">
-  <img width="1000" src="../_Images/Ad-Click-2.png">
+  <img width="1000" src="./_Images/Ad-Click-2.png">
 </p>
 <p align="center">
   Features Correlation
