@@ -191,6 +191,10 @@ This portfolio will grow as I learn more and do more projects.
 - Created a logistic regression model that processed 1000 rows of user data to estimate whether or not a person will click an advertisement with a 93% accuracy.
 
 <p align="center">
+  <a href="https://imgbb.com/"><img width="500" src="https://i.ibb.co/2nVDp5w/Ad-Click-1.png" alt="Ad-Click-1" border="1></a>
+</p>
+    
+<p align="center">
   <img width="500" src="./_Images/Ad-Click-1.png">
 </p>
 <p align="center">
