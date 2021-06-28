@@ -1,6 +1,6 @@
 # About me
 
-My name is [Shumayl Asmawi](https://www.linkedin.com/in/shumayl-111/), and I am an Applied Physics fresh graduate. I am currently learning data science, and I am looking for ways to solve problems in the domains of semiconductor devices, renewable energy, materials science, and business intelligence using data!
+My name is [Shumayl Asmawi](https://www.linkedin.com/in/shumayl-111/), and I am an Applied Physics fresh graduate. I am passionate about the application of data science and machine learning within the domains of renewable energy, semiconductor devices, materials science, and business intelligence!
 
 # About the portfolio
 The depth and scope of each project varies, they include (but not limited to):
