@@ -164,14 +164,14 @@ This portfolio will grow as I learn more and do more projects.
 - Implemented the Support Vector Machine (SVM) algorithm to predict between 3 different flower species given information on sepal and petal dimensions with an average accuracy of 95%.
 
 <p align="center">
-  <img width="500" src="./_Images/SVM-1.png">
+  <img width="500" src="https://i.ibb.co/gt5Rdnc/SVM-1.png">
 </p>
 <p align="center">
   SVM Model Performance
 </p>
 
 <p align="center">
-  <img width="500" src="./_Images/SVM-2.png">
+  <img width="500" src="https://i.ibb.co/bLbwLcB/SVM-2.png">
 </p>
 <p align="center">
   Multivariate Plot
@@ -190,10 +190,7 @@ This portfolio will grow as I learn more and do more projects.
 
 - Created a logistic regression model that processed 1000 rows of user data to estimate whether or not a person will click an advertisement with a 93% accuracy.
 
-<p align="center">
-  <a href="https://imgbb.com/"><img width="500" src="https://i.ibb.co/2nVDp5w/Ad-Click-1.png" alt="Ad-Click-1" border="1></a>
-</p>
-    
+
 <p align="center">
   <img width="500" src="./_Images/Ad-Click-1.png">
 </p>
