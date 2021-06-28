@@ -27,7 +27,7 @@ This portfolio will grow as I learn more and do more projects.
 - Constructed a simple linear regression model to predict the output of the solar power plants which is accurate up to around 700kW (root mean squared error).
 
 <p align="center">
-  <img width="500" src="_Images/Solar-1.png">
+  <img width="500" src="_Images/Solar-1.png"/>
 </p>
 <p align="center">
   Variance Between Actual Values and Predicted Values
