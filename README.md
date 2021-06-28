@@ -23,42 +23,190 @@ This portfolio will grow as I learn more and do more projects.
 
 **[EDA and Prediction of Solar Power Output](https://github.com/mshumayl/data-science-portfolio/tree/main/Solar-Power-Output-Prediction)**
 
-Exploratory data analysis on a dataset of power output and weather sensor data obtained from two solar power plants in India. Predictive modelling is done using linear regression to predict the output of the solar power plants, given a test set of various time and weather conditions. The dataset was obtained from Kaggle.
+- Conducted an exploratory data analysis (EDA) to discover key analytics and diagnostics for a dataset of two solar power plants.
+- Constructed a simple linear regression model to predict the output of the solar power plants which is accurate up to around 700kW (root mean squared error).
+
+<p align="center">
+  <img width="500" src="https://github.com/mshumayl/data-science-portfolio/blob/main/_Images/Solar-1.png">
+</p>
+<p align="center">
+  Variance Between Actual Values and Predicted Values
+</p>
+
+<p align="center">
+  <img width="600" src="https://github.com/mshumayl/data-science-portfolio/blob/main/_Images/Solar-2.png">
+</p>
+<p align="center">
+  Feature Correlation Matrix
+</p>
+
+<p align="center">
+  <img width="800" src="https://github.com/mshumayl/data-science-portfolio/blob/main/_Images/Solar-3.png">
+</p>
+<p align="center">
+  AC Power Output Throughout the Day
+</p>
+
 
 #
 
-**[Exploring Trends and Patterns of TED Talks (EDA)](https://github.com/mshumayl/data-science-portfolio/tree/main/TEDTalk-Exploratory-Data-Analysis)**
+**[Kaggle TPS June 2021 Competition](https://github.com/mshumayl/data-science-portfolio/tree/main/Kaggle-TPSCompetition-June2021)**
 
-Exploratory data analysis on a dataset of over 2000 recorded TED Talks to visualize underlying trends and patterns regarding the popularity, sentiments, and ratings of the TED events.
+- Designed a multilayer perceptron (MLP) neural network model and an XGBoost model to predict the category of 100,000 different products given over 70 different mystery features of over 200,000 existing products for Kaggle's June Tabular Playground Competition.
+- Scored 1.77852 (competition winner scored 1.74370, multiclass log loss - lower is better) with predictions made by the XGBoost model.
+
+<p align="center">
+  <img width="1000" src="https://github.com/mshumayl/data-science-portfolio/blob/main/_Images/TPS062021-1.png">
+</p>
+<p align="center">
+  MLP Model Architecture
+</p>
 
 #
 
 **[Predicting House Prices with Neural Networks using Keras and Tensorflow](https://github.com/mshumayl/data-science-portfolio/tree/main/House-Price-Prediction-with-Neural-Network)**
 
-Constructing a four-layer Artificial Neural Network using Keras and Tensorflow to predict the price of houses given a set of features. The training data is on house prices in the Seattle area. The Adam algorithm was used for optimization, and ReLU was used as the activation function for each point.
+- Designed a multilayer perceptron (MLP) neural network model with tf.keras to predict the price of houses given information on location and various other aspects of over 20,000 houses with a great variance score of 0.767.
+
+<p align="center">
+  <img width="1000" src="https://github.com/mshumayl/data-science-portfolio/blob/main/_Images/HousePrice_3.png">
+</p>
+<p align="center">
+  MLP Model Architecture
+</p>
+
+<p align="center">
+  <img width="700" src="https://github.com/mshumayl/data-science-portfolio/blob/main/_Images/HousePrice_1.png">
+</p>
+<p align="center">
+  Coordinate Plot of House Prices
+</p>
+
+<p align="center">
+  <img width="600" src="https://github.com/mshumayl/data-science-portfolio/blob/main/_Images/HousePrice_4.png">
+</p>
+<p align="center">
+  Variance Between Actual Values and Predicted Values
+</p>
+
+<p align="center">
+  <img width="600" src="https://github.com/mshumayl/data-science-portfolio/blob/main/_Images/HousePrice_2.png">
+</p>
+<p align="center">
+  Correlation Between Living Space and House Price
+</p>
 
 #
+
+**[Exploring Trends and Patterns of TED Talks (EDA)](https://github.com/mshumayl/data-science-portfolio/tree/main/TEDTalk-Exploratory-Data-Analysis)**
+
+- Conducted a comprehensive exploratory data analysis with prompts from a lecture by Kevin Markham on a dataset of over 2000 recorded TED Talks to visualize underlying trends and patterns regarding the popularity, sentiments, and ratings of the TED events.
+
+<p align="center">
+  <img width="400" src="https://github.com/mshumayl/data-science-portfolio/blob/main/_Images/TED-1.png">
+</p>
+<p align="center">
+  Views Analytics
+</p>
+
+<p align="center">
+  <img width="500" src="https://github.com/mshumayl/data-science-portfolio/blob/main/_Images/TED-4.png">
+</p>
+<p align="center">
+  Engagement Analytics
+</p>
+
+<p align="center">
+  <img width="400" src="https://github.com/mshumayl/data-science-portfolio/blob/main/_Images/TED-2.png">
+</p>
+<p align="center">
+  Sentiment Analytics
+</p>
+
+<p align="center">
+  <img width="500" src="https://github.com/mshumayl/data-science-portfolio/blob/main/_Images/TED-3.png">
+</p>
+<p align="center">
+  Number of TED Talks per Year
+</p>
+
+#
+
 
 **[Predicting Classification on a Dataset of Unknown Features with K-Nearest Neighbors Algorithm](https://github.com/mshumayl/data-science-portfolio/tree/main/Classification-Prediction-KNN)**
 
-Supervised learning using the K-NN algorithm to predict the target classes given a set of unknown features.
+- Implemented the K-Nearest Neighbors algorithm to predict the category of an object based on 10 mystery features of 1000 different objects with a precision of 83%.
+
+<p align="center">
+  <img width="500" src="https://github.com/mshumayl/data-science-portfolio/blob/main/_Images/KNN-1.png">
+</p>
+<p align="center">
+  KNN Decision Boundary
+</p>
 
 #
 
-**[Predicting Loan Defaulting with Random Forest Classifier Algorithm](https://github.com/mshumayl/data-science-portfolio/tree/main/Predicting-Loan-Return-with-Random-Forest-Classifier)**
+**[Predicting Loan Repayment with Decision Trees and Random Forest Algorithms](https://github.com/mshumayl/data-science-portfolio/tree/main/Predicting-Loan-Return-with-Random-Forest-Classifier)**
 
-Supervised learning using the Decision Trees algorithm and Random Forest ensemble to predict whether or not a loaner will default given information on applicants' FICO credit scores, annual income, loan purpose, matching criteria, and a few other features.
+- Trained a decision trees model and a random forest model to predict loan repayment given past information of an applicant. The decision trees model and the random forest model achieved 75% and 78% accuracies respectively.
+
+<p align="center">
+  <img width="1000" src="https://github.com/mshumayl/data-science-portfolio/blob/main/_Images/DT-1.png">
+</p>
+<p align="center">
+  Decision Tree Model
+</p>
 
 #
 
 **[Predicting Flower Type with Support Vector Machine Algorithm](https://github.com/mshumayl/data-science-portfolio/tree/main/Predicting-Flower-Type-with-SVM)**
 
-Supervised learning using the Support Vector Machine algorithm to predict the target class between three types of flowers, given information on sepal length, sepal width, petal length, and petal width of the flowers.
+- Implemented the Support Vector Machine (SVM) algorithm to predict between 3 different flower species given information on sepal and petal dimensions with an average accuracy of 95%.
+
+<p align="center">
+  <img width="500" src="https://github.com/mshumayl/data-science-portfolio/blob/main/_Images/SVM-1.png">
+</p>
+<p align="center">
+  SVM Model Performance
+</p>
+
+<p align="center">
+  <img width="500" src="https://github.com/mshumayl/data-science-portfolio/blob/main/_Images/SVM-2.png">
+</p>
+<p align="center">
+  Multivariate Plot
+</p>
+
+<p align="center">
+  <img width="1000" src="https://github.com/mshumayl/data-science-portfolio/blob/main/_Images/SVM-3.png">
+</p>
+<p align="center">
+  Features Correlation
+</p>
 
 #
 
-**[Unsupervised Learning with K-Means Clustering (Study)](https://github.com/mshumayl/data-science-portfolio/tree/main/Learning-Unsupervised-Learning)** 
+**[Predicting Ad Click with Logistic Regression Model](https://github.com/mshumayl/data-science-portfolio/tree/main/Ad-Click-Prediction)**
 
-A study on supervised learning using the K-Means Clustering algorithm to investigate the relationships between the features of a dataset of private and public schools.
+- Created a logistic regression model that processed 1000 rows of user data to estimate whether or not a person will click an advertisement with a 93% accuracy.
 
-#
+<p align="center">
+  <img width="500" src="https://github.com/mshumayl/data-science-portfolio/blob/main/_Images/Ad-Click-1.png">
+</p>
+<p align="center">
+  Model Performance
+</p>
+
+<p align="center">
+  <img width="500" src="https://github.com/mshumayl/data-science-portfolio/blob/main/_Images/Ad-Click-3.png">
+</p>
+<p align="center">
+  Multivariate Plot
+</p>
+
+<p align="center">
+  <img width="1000" src="https://github.com/mshumayl/data-science-portfolio/blob/main/_Images/Ad-Click-2.png">
+</p>
+<p align="center">
+  Features Correlation
+</p>
