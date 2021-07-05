@@ -19,6 +19,24 @@ This portfolio will grow as I learn more and do more projects.
 # Mini projects
 *Click any of the project title to visit the codes on GitHub. If GitHub fails to load any of the .ipynb files, you can use nbviewer to view the files by clicking [here](https://nbviewer.jupyter.org/github/mshumayl/data-science-portfolio/tree/main/).*
 
+## **[Stochastic Modelling of Semiconductor QA Results Using Sensor Data](https://github.com/mshumayl/data-science-portfolio/tree/main/Semicon-QA-Prediction)**
+
+- Implemented an XGBoost model to predict the pass/fail yield for in-house line testing of over 1500 production entities using signals from over 500 sensors and process measurement points.
+- Obtained a great predictive performance of 0.876 (ROC-AUC).
+
+<p align="center">
+  <img width="500" src="https://i.ibb.co/9pjr33L/Semicon-QA-1.png"/>
+</p>
+
+## **[Malaysia Vaccination Dashboard](https://github.com/mshumayl/data-science-portfolio/tree/main/Malaysia_Vaccination_Dashboard)**
+
+- Created a [daily-updated interactive dashboard](https://mshumayl.github.io/malaysia-vaccination/) to visualize the vaccination progress using the data released by CITF.
+- The site was commited to the [official CITF contributions repository](https://github.com/CITF-Malaysia/citf-public/blob/main/CONTRIB.md).
+
+<p align="center">
+  <img width="500" src="https://i.ibb.co/vdrwsYr/Vaccination-Dashboard-1.png"/>
+</p>
+
 ## **[EDA and Prediction of Solar Power Output](https://github.com/mshumayl/data-science-portfolio/tree/main/Solar-Power-Output-Prediction)**
 
 - Conducted an exploratory data analysis (EDA) to discover key analytics and diagnostics for a dataset of two solar power plants.
