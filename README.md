@@ -27,6 +27,10 @@ This portfolio will grow as I learn more and do more projects.
 <p align="center">
   <img width="500" src="https://i.ibb.co/9pjr33L/Semicon-QA-1.png"/>
 </p>
+<p align="center">
+  Receiver Operating Characteristic (ROC) Curve
+</p>
+
 
 ## **[Malaysia Vaccination Dashboard](https://github.com/mshumayl/data-science-portfolio/tree/main/Malaysia_Vaccination_Dashboard)**
 
@@ -35,6 +39,9 @@ This portfolio will grow as I learn more and do more projects.
 
 <p align="center">
   <img width="500" src="https://i.ibb.co/vdrwsYr/Vaccination-Dashboard-1.png"/>
+</p>
+<p align="center">
+  Vaccination Dashboard
 </p>
 
 ## **[EDA and Prediction of Solar Power Output](https://github.com/mshumayl/data-science-portfolio/tree/main/Solar-Power-Output-Prediction)**
