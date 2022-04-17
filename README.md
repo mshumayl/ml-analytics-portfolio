@@ -1,3 +1,5 @@
+### To view this as a webpage, [click here](https://mshumayl.github.io/data-science-portfolio/).
+
 # About me
 
 My name is [Shumayl Asmawi](https://www.linkedin.com/in/shumayl-111/), and I am an Applied Physics fresh graduate. I am passionate about the application of data science and machine learning within the domains of renewable energy, semiconductor devices, materials science, and business intelligence!
