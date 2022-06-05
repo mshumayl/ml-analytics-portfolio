@@ -21,6 +21,10 @@ This portfolio will grow as I learn more and do more projects.
 # Mini projects
 *Click any of the project title to visit the codes on GitHub. If GitHub fails to load any of the .ipynb files, you can use nbviewer to view the files by clicking [here](https://nbviewer.jupyter.org/github/mshumayl/data-science-portfolio/tree/main/).*
 
+## **[Traffic prediction](https://github.com/mshumayl/traffic-prediction)**
+- Implemented an ensemble of gradient boosting, random forests, and linear regression to predict traffic congestion.
+
+
 ## **[Stochastic Modelling of Semiconductor QA Results Using Sensor Data](https://github.com/mshumayl/data-science-portfolio/tree/main/Semicon-QA-Prediction)**
 
 - Implemented an XGBoost model to predict the pass/fail yield for in-house line testing of over 1500 production entities using signals from over 500 sensors and process measurement points.
