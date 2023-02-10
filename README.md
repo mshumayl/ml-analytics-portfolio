@@ -1,8 +1,12 @@
-### To view this as a webpage, [click here](https://mshumayl.github.io/data-science-portfolio/).
+### Shumayl Asmawi - ML/Analytics Portfolio
+
+To view this as a webpage, [click here](https://mshumayl.github.io/ml-analytics-portfolio/).
 
 # About me
 
-My name is [Shumayl Asmawi](https://www.linkedin.com/in/shumayl-111/), and I am an Applied Physics fresh graduate. I am passionate about the application of data science and machine learning within the domains of renewable energy, semiconductor devices, materials science, and business intelligence!
+My name is [Shumayl Asmawi](https://www.linkedin.com/in/shumayl-111/), and I am a Systems Engineer at HP Inc, where I develop data-driven software systems in the manufacturing sector.
+
+This mini portfolio was created in 2021, and may not accurately reflect my current skills. You can visit my [GitHub profile](https://github.com/mshumayl) and [my blog](https://www.shumayl.com/) to view my latest works.
 
 # About the portfolio
 The depth and scope of each project varies, they include (but not limited to):
@@ -15,8 +19,6 @@ The depth and scope of each project varies, they include (but not limited to):
 - Hyperparameter tuning
 - Predictive analytics
 - Model evaluation
-
-This portfolio will grow as I learn more and do more projects.
 
 # Mini projects
 *Click any of the project title to visit the codes on GitHub. If GitHub fails to load any of the .ipynb files, you can use nbviewer to view the files by clicking [here](https://nbviewer.jupyter.org/github/mshumayl/data-science-portfolio/tree/main/).*
